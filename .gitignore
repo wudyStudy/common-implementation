@@ -1,0 +1,33 @@
+# Created by .ignore support plugin (hsz.mobi)
+hs_err_pid*
+!.gitignore
+
+#idea
+.idea
+*/target/
+/target/
+**/*.iml
+
+# eclipse specific git ignore
+.project
+*/.project
+
+.metadata
+bin/**
+*/bin/
+tmp/**
+.classpath
+*/.classpath
+
+.settings/
+*/.settings/
+
+.DS_Store
+*/.DS_Store
+
+*.class
+*.iml
+
+# Package Files #
+*.war
+*.ear
