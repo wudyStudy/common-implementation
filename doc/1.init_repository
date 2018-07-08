@@ -1,0 +1,11 @@
+#如果本地不存在项目，新建立一个文件夹
+echo "# common-implementation" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/wudyStudy/common-implementation.git
+git push -u origin master
+
+#如果本地存在项目
+git remote add origin https://github.com/wudyStudy/common-implementation.git
+git push -u origin master
