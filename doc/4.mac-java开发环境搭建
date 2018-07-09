@@ -1,14 +1,17 @@
 #先安装homebew
 1.jdk
+brew cask install java、brew tap caskroom/versions、brew cask install java6
 2.git
 3.maven
 4.iterm2
 5.sublime text
 6.macDown
 7.Intellij Idea
+brew cask install intellij-idea、brew cask install intellij-idea-ce（Community Edition）
 8.Seq pro
 9.python3
 10.kafka Tool
 11.DataGrid
 12.Dashborard
 13.Charles
+14.redis
